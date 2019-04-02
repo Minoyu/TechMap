@@ -24,7 +24,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://github.com/DominikYang"><img src="https://avatars2.githubusercontent.com/u/32817649?v=4" width="100px;" alt="DominikYang"/><br /><sub><b>DominikYang</b></sub></a><br /><a href="#content-DominikYang" title="Content">🖋</a></td></tr></table>
+<table><tr><td align="center"><a href="https://github.com/DominikYang"><img src="https://avatars2.githubusercontent.com/u/32817649?v=4" width="100px;" alt="DominikYang"/><br /><sub><b>DominikYang</b></sub></a><br /><a href="#content-DominikYang" title="Content">🖋</a> <a href="https://github.com/Minoyu/TechMap/commits?author=DominikYang" title="Code">💻</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
